@@ -1,2 +1,7 @@
 [server]
 fileWatcherType = "poll"
+headless = true
+enableCORS = false
+
+[browser]
+gatherUsageStats = false
