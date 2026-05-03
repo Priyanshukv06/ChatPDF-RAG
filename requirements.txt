@@ -14,6 +14,10 @@ langchain-chroma==1.1.0
 
 # Vector store
 chromadb==1.5.8
+protobuf==4.25.3
+opentelemetry-api==1.24.0
+opentelemetry-sdk==1.24.0
+opentelemetry-exporter-otlp-proto-grpc==1.24.0
 
 # Embeddings + reranking
 sentence-transformers==5.4.1
